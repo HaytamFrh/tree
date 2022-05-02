@@ -7,17 +7,17 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "0367xc0bh62453526",
-	"APPLOVIN_INTERSTITIAL_ID": "9ececd53523778gt469",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"9egfr465Z34d6740t23e9",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_BANNER_ID": "fcd8c0801549d8e9",
+	"APPLOVIN_INTERSTITIAL_ID": "64757831137b40ed",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"64757831137b40ed",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "12485",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "917362",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "Dollar Tree",
 			"image": "https://raw.githubusercontent.com/HaytamFrh/treeimg/main/dollar%20logo.png",
-			"url": "https://"
+			"url": "https://www.dollartree.com/"
 		}
 		
 
